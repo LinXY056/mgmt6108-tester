@@ -1,0 +1,6 @@
+{
+  "name": "The New York Times",
+  "description": "An authentic New York Times mobile reader application featuring international news, investigative reporting, curated section browsing, audio article listening, and interactive editorial screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
